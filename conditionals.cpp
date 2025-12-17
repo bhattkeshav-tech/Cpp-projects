@@ -1,0 +1,17 @@
+#include<iostream>
+
+using namespace std;
+
+int main(){
+
+   int n;
+   cout<<"enter a number: ";
+   cin>>n;
+   
+   if(n>4) cout<<"fuckyou";
+   if(n<=4) cout<<"helloworld";
+
+
+
+    return 0;
+}
