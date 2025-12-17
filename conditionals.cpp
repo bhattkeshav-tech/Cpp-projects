@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+// this is a simple program to demonstrate conditionals in C++
 int main(){
 
    int n;
