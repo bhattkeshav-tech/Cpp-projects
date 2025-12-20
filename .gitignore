@@ -1,5 +1,2 @@
-conditionals.exe
-else_if.exe
-Three_digit_or_not_.exe
-sides_of_triangle.exe
-greatest_of_three.exe
+# Ignore ALL executable files automatically
+*.exe
